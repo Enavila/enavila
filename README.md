@@ -8,10 +8,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Haonter">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20a%20Full-Stack%20Web%20Developer%20💻;☝🏻%20I%20have%20knowledge%20about;HTML,%20CSS,%20SASS,%20PHP;Python,%20JavaScript,%20React,%20Node,%20Express;%20MongoDB,%20MySQL,%20C%20and%20WordPress;I%20like%20to%20code,%20the%20Metal%20music%20🤘🏻%20and;%20learn%20new%20things%20everytime!;Currently%20i'm%20working%20from%20home;%20and%20still%20learning%20👨🏻‍💻&font=Fira%20Code&center=true&width=650&color=0a94b2&vCenter=true&pause=200&size=22" /></a>
-</p>
+
 
 <!-- Social icons section -->
 <p align="center">
