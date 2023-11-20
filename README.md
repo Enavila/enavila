@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Haonter">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🙋🏻‍♂️%20Hi!,%20i%20am%20Eduardo%Avila;&font=Fira%20Code&center=true&width=650&color=0a94b2&vCenter=true&pause=15000&size=30" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=🙋🏻‍♂️%20Hi!,%20i%20am%20Eduardo%20Avila;&font=Fira%20Code&center=true&width=650&color=0a94b2&vCenter=true&pause=15000&size=30" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/Haonter">
@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@HaonterDev"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/raE8eQy.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/didacusdev"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/0Q8VJ80.png"/></a>
+  <a href="[https://www.instagram.com/didacusdev](https://www.instagram.com/eduar_avila/)"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/0Q8VJ80.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
